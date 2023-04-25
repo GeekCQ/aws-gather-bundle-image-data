@@ -1,4 +1,4 @@
-# AWS WorkSpaces Info Generator
+# AWS WorkSpaces Images and Bundles Info Generator
 
 This script generates an Excel workbook containing information about AWS WorkSpaces images and bundles. The workbook consists of three sheets: "Images", "Bundles", and "Bundles_With_Images". The "Images" sheet lists the details of all available WorkSpaces images, including image ID, name, description, and creation time. The "Bundles" sheet lists the details of all available WorkSpaces bundles, including bundle ID, name, description, image ID, compute type, and creation time. The "Bundles_With_Images" sheet provides a merged view of the bundles and their associated images.
 
